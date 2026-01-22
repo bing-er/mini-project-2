@@ -1,4 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
 .ipynb_checkpoints/
+
+# PyCharm / IntelliJ
+.idea/
+
+# OS
 .DS_Store
-.idea
-.venv
