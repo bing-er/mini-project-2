@@ -146,6 +146,7 @@ From a business perspective, false negatives (missed churners) are more costly t
 * Repository setup and structure
 * Data preprocessing and exploration
 * Warning fixes, documentation, and final polishing
+* Contributed to report writing and final polishing
 
 **Yansong Jia**
 * Model development and evaluation
