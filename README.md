@@ -24,7 +24,7 @@ This project builds a **classification system** to predict whether a telecom cus
 ## 📊 Dataset
 
 **Name:** Telco Customer Churn  
-**Source:** IBM Sample Dataset (Kaggle)  
+**Source:** IBM Sample Dataset (Kaggle) https://www.kaggle.com/datasets/blastchar/telco-customer-churn<br>
 **File:** `WA_Fn-UseC_-Telco-Customer-Churn.csv`
 
 - **Samples:** 7,043  
@@ -45,15 +45,16 @@ Due to this imbalance, **accuracy is not used as the primary evaluation metric**
 
 ```text
 mini-project-2/
-├── README.md
-├── requirements.txt
-├── .gitignore
 ├── data/
 │   └── (dataset download instructions)
+├── docs/
+│   └── report.pdf
 ├── notebooks/
 │   ├── 01_exploration.ipynb
 │   └── 02_modeling.ipynb
-└── src/
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
 
 ## ⚙️ Setup Instructions (Run Locally)
